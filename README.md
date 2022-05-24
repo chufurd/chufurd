@@ -41,33 +41,33 @@ See [my website](https://thejesusrodriguez.com) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
+        <p><strong>Javascript, Bootstrap, Node.js, & Express.js</strong> - Platform to help sell or share coffee with your neighbors.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Rigley 2: "Flappy Bug"</h3>
+      <h3 align="center">HorrorScope App</h3>
         <br />
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
+      <a target="_blank" href="https://hscopeapp.netlify.app/">
             <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
+  <a href="https://github.com/chufurd/Hscope" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
+  <a href="https://hscopeapp.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
+        <p><strong>Javascript</strong> - A simple horrorscope app</p>
     </td>
   </tr>
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">ShawnCharles.com</h3>
+      <h3 align="center">TheJesusRodriguez.com</h3>
       <br />
-        <a target="_blank" href="https://shawncharles.com">
+        <a target="_blank" href="Thejesusrodriguez.com">
           <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
         </a>
       <br />
@@ -114,19 +114,12 @@ See [my website](https://thejesusrodriguez.com) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
     <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
     <img src="https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=4a935c&style=plastic&logo=typescript"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=52985b&style=plastic&logo=python"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=JAVA&color=cdf998&style=plastic&logo=java"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=SOLIDITY&color=8fbc56&style=plastic&logo=solidity"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=SELENIUM&color=cdf998&style=plastic&logo=selenium"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=AWS&color=98bf53&style=plastic&logo=amazon"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=WORDPRESS&color=cdd148&style=plastic&logo=wordpress"/>
     <img src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=98bf53&style=plastic&logo=adobe"/>
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
     <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
     <img src="https://img.shields.io/static/v1?label=|&message=WEBPACK&color=bbb111&style=plastic&logo=webpack"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=bbb111&style=plastic&logo=linux"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=FIREBASE&color=cbb148&style=plastic&logo=firebase"/>
+    
 </p>
 
 
@@ -139,20 +132,14 @@ See [my website](https://thejesusrodriguez.com) for more information!
 
 
 <p align="center">
-  <a href="https://shawncharles.com" target="_blank">
+  <a href="https://thejesusrodriguez.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
-  <a href="https://shawncharles.com/linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/jesus-rodriguez2424/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-  <a href="https://shawncharles.com/twitter" target="_blank">
+  <a href="https://twitter.com/chufurd" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
-  </a>
-  <a href="https://shawncharles.com/angellist" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
-  </a>
-  <a href="https://shawncharles.com/resume" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
 
