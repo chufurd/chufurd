@@ -46,7 +46,7 @@ See [my website](https://thejesusrodriguez.com) for more information!
     <td width="50%" valign="top">
       <h3 align="center">HorrorScope App</h3>
         <br />
-      <a target="_blank" href="https://hscopeapp.netlify.app/](https://infinite-caverns-69725.herokuapp.com/">
+      <a target="_blank" href="https://cofreeapp.herokuapp.com/">
             <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
@@ -55,7 +55,7 @@ See [my website](https://thejesusrodriguez.com) for more information!
   <a href="https://github.com/chufurd/HScope2" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://hscopeapp.netlify.app/" target="_blank">
+  <a href="https://infinite-caverns-69725.herokuapp.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
