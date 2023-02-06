@@ -41,7 +41,7 @@ See [my website](https://thejesusrodriguez.com) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, Bootstrap, Node.js, & Express.js, React</strong> - My basketball API provides real-time access to the latest stats of 10 current NBA players. The API is designed to deliver the most up-to-date information in a fast and efficient manner, making it an indispensable tool for fans and analysts alike..</p>
+        <p><strong>Javascript, Bootstrap, Node.js, & Express.js, React.js</strong> - My basketball API provides real-time access to the latest stats of 10 current NBA players. The API is designed to deliver the most up-to-date information in a fast and efficient manner, making it an indispensable tool for fans and analysts alike..</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">HorrorScope App</h3>
