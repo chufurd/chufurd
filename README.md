@@ -26,22 +26,22 @@ See [my website](https://thejesusrodriguez.com) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Cofree.com</h3>
+      <h3 align="center">Basketball API</h3>
         <br />
-        <a target="_blank" href="https://new-shmup-api.herokuapp.com/">
+        <a target="_blank" href="https://bball-api-final.onrender.com/">
             <img src="images/gif1.gif" width="100%" alt="Travel App"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/chufurd/coffeeApp" target="_blank">
+  <a href="https://github.com/chufurd/bball-api" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://new-shmup-api.herokuapp.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, Bootstrap, Node.js, & Express.js</strong> - Platform to help sell or share coffee with your neighbors.</p>
+        <p><strong>Javascript, Bootstrap, Node.js, & Express.js, React</strong> - My basketball API provides real-time access to the latest stats of 10 current NBA players. The API is designed to deliver the most up-to-date information in a fast and efficient manner, making it an indispensable tool for fans and analysts alike..</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">HorrorScope App</h3>
