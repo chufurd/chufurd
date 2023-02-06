@@ -37,7 +37,7 @@ See [my website](https://thejesusrodriguez.com) for more information!
   <a href="https://github.com/chufurd/bball-api" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://new-shmup-api.herokuapp.com" target="_blank">
+  <a href="https://bball-api-final.onrender.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
