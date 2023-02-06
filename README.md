@@ -59,7 +59,7 @@ See [my website](https://thejesusrodriguez.com) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript</strong><strong> React</strong><strong> Node.js</strong> - My horoscope app is built using React, Node, and JavaScript to deliver daily horoscope predictions to users. It utilizes an API to retrieve astrological data and display it in an interactive and user-friendly interface.
+        <p><strong>Javascript</strong><strong> React.js</strong><strong> Node.js</strong> - My horoscope app is built using React, Node, and JavaScript to deliver daily horoscope predictions to users. It utilizes an API to retrieve astrological data and display it in an interactive and user-friendly interface.
 
 </p>
     </td>
