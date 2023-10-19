@@ -77,11 +77,11 @@ See [my website](https://thejesusrodriguez.com) for more information!
 <!--   <a href="https://github.com/CharlesCreativeContent/Portfolio2021" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/> -->
   </a>
-  <a href="http://thejesusrodriguez.com" target="_blank">
+  <a href="https://github.com/chufurd/Circuit-Training-Timer" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        <p><strong>HTML5, CSS, & Javascript</strong> - The Circuit Training Timer is a web application that helps users create and manage their workout plans. With a user-friendly interface, it allows individuals to set up exercises, rest intervals, and exercise colors to guide them through effective circuit workouts with precise timing and visual cues.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Basketball Reference Scrapper</h3>
